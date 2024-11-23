@@ -1,5 +1,5 @@
 # amazon
-![viewfinal](assets\img\images.png)
+![viewfinal](img\images.png)
 
 - [Demo Project](https://amin-banam.github.io/Persian_temp/)
 
